@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>グランピングヴィレッジ若原</title>
+    <meta name="description" content="Nature Villa & Glamping Spa グランピングヴィレッジ若原 公式ホームページ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+    <script src="observer.js" defer></script>
+</head>
+
+<body>
+    <div class="top-wrapper">
+        <div class="top">
+          <header>
+          <div class="menu-btn">
+            <span class="menu-line"></span>
+          </div>
+          <div class="overlay">
+              <nav class="navigation">
+                <ul>
+                <li>
+                    <a href="access.html">Access</a>
+                </li>
+                <li>
+                    <a href="reserve.html">Reserve</a>
+                </li>
+                <li>
+                    <a href="qa.html">Q&A</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+              </nav>
+          </div>
+          <nav class="row">
+            <ul>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+                <li>
+                    <a href="qa.html">Q&A</a>
+                </li>
+                <li>
+                    <a href="reserve.html">Reserve</a>
+                </li>
+                <li>
+                    <a href="access.html">Access</a>
+                </li>
+              </ul>
+            </nav>
+            <h1 class="object"><span>Nature Villa & Glamping Spa</span><br>グランピングヴィレッジ　若原</h1>
+            </header>
+        </div>
+    </div>
+    <div class="container">
+    <div class="message">
+      <p class="object">自然の中で深呼吸してみた。</p>
+      <p class="object">なんだか、強くなれた気がした。</p>
+    </div>
+    <div class="blog-wrapper">
+        <h2 class="object">BLOG</h2>
+        <div class="blog-list object">
+          <ul>
+            <li><a href="blog.html">2024/04/01    <span></span>お食事が春のメニューに切り替わりました。</a></li>
+            <li><a href="blog.html">2024/03/27    <span></span>暖かくなってきましたね。</a></li>
+            <li><a href="blog.html">2024/01/01    <span></span>明けましておめでとうございます。</a></li>
+          </ul>
+          <p><a href="blog.html">and more...</a></p>
+       </div>
+    </div>
+    <div class="charm-wrapper">
+        <h2 class="object">4つの魅力</h2>
+        <div class="charm-left">
+            <img class="charm1 left-img object" src="charm1.jpg" alt="吹き抜けの画像">
+            <div class="charm-text object">
+              <h3>広々一戸建てで、贅沢な休息を。</h3>
+              <p>二階建てのお部屋で<span></span>
+              吹き抜けからは暖かい光が差し込みます。<br>
+              大人数ではもちろん、お二人でも<span></span>
+              静かなひと時をお過ごしください。</p>
+            </div>
+        </div>
+        <div class="charm-right">
+            <img class="charm2 right-img object" src="charm2.jpg" alt="もみじの画像">
+            <div class="charm-text object">
+              <h3>自然との一体感を味わう。</h3>
+              <p>お庭だけではなく、室内にも小さなみどりを<span></span>
+              ご用意しております。<br>
+              四季折々の植物を常に感じることができ、<span></span>
+              呼吸をするたびに<span></span>
+              心も体も回復していく感覚を味わってみてください。</p>
+            </div>
+        </div>
+        <div class="charm-left">
+            <img class="charm3 left-img object" src="charm3.jpg" alt="中庭の画像">
+            <div class="charm-text object">
+              <h3>露天風呂でととのう。</h3>
+              <p>中庭には、昔ながらの五右衛門風呂を<span></span>
+                ご用意しております。<br>
+                風情を感じながらごゆっくりご入浴いただき、<span></span>
+                温まったあとはベンチでおくつろぎください。<br>
+                入浴後には珈琲牛乳でからだに潤いを。<br>
+              </p>
+            </div>
+        </div>
+        <div class="charm-right">
+            <img class="charm4 right-img object" src="charm4.jpg" alt="猫の画像">
+            <div class="charm-text  object">
+              <h3>ペットとともに過ごす時間。</h3>
+              <p>お部屋にはペット専用の寝床もご用意しております。<br>
+                広々としたお庭で遊ぶのもよし。<br>
+                縁側で日向ぼっこをするのもよし。<br>
+                それぞれに合った楽しみ方でお過ごしください。<br>
+                ペット用のご飯も承りますので、予約時に<span></span>
+                お気軽にお申し付けください。</p>
+            </div>
+        </div>
+        <button class="btn" type="button" onclick="reserve.html">Reserve</button>
+    </div>
+    </div>
+    <footer>
+        <ul>
+            <li>
+                <a href="access.html">Access</a>
+            </li>
+            <li>
+                <a href="reserve.html">Reserve</a>
+            </li>
+            <li>
+                <a href="qa.html">Q&A</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </footer>
+</body>
+
+</html>
