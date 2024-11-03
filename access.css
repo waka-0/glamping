@@ -248,7 +248,8 @@ footer a:hover,
 .top h1,
 h2,
 .message p,
-.blog-list {
+.access,
+.map{
   opacity: 0;
   transform: translateY(30px);
   transition: all 3s;
@@ -268,10 +269,8 @@ h2,
 
 .top h1.show,
 h2.show,
-.message p.show,
-.blog-list.show,
-.right-img.show,
-.left-img.show {
+.access.show,
+.map.show{
   opacity: 1;
   transform: none;
 }
